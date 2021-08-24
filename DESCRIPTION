@@ -1,13 +1,14 @@
 Package: ACLSimulationTutorial
-Title: What the Package Does (One Line, Title Case)
+Title: Tutorial for a simple state-transition model
 Version: 0.0.0.9002
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Ross",
+           family = "Wilson",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "ross.wilson@otago.ac.nz")
+Description: This provides a `learnr` tutorial for a simple simulation model of
+    ACL injury and subsequent osteoarthritis incidence and joint replacement
+    surgery.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
