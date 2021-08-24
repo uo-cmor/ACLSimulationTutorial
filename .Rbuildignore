@@ -1,5 +1,5 @@
 ^ACLSimulationTutorial\.Rproj$
 ^\.Rproj\.user$
-^inst/tutorials/full-model/full-model\.Rmd$
+^inst/tutorials/.*\.html$
 ^LICENSE\.md$
 ^README\.Rmd$
