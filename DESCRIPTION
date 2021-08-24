@@ -1,6 +1,6 @@
 Package: ACLSimulationTutorial
 Title: Tutorial for a simple state-transition model
-Version: 0.0.0.9002
+Version: 0.1.0
 Authors@R: 
     person(given = "Ross",
            family = "Wilson",
@@ -17,9 +17,10 @@ RoxygenNote: 7.1.1
 Imports: 
     gradethis (>= 0.2.3.9001),
     knitr,
-    learnr
-Remotes: 
-    rstudio/gradethis
+    learnr (>= 0.10.1)
+Remotes:  
+    rstudio/gradethis,
+    rstudio/learnr
 Depends: 
     tidyverse
 URL: https://github.com/uo-cmor/ACLSimulationTutorial
